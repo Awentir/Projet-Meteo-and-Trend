@@ -1,5 +1,6 @@
 # Projet-Meteo-and-Trend
-Projet 3 Passerelle
+Projet 3 de Passerelle
+
 __OBJECTIF__ : Analyser des données brutes et les rendres visuellement compréhensibles
 
 __Cahier des charges__ : 
